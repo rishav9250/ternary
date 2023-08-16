@@ -1,0 +1,2 @@
+# ternary
+ternary in java
